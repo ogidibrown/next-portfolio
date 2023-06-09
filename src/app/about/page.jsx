@@ -27,7 +27,7 @@ const About = () => {
                     harum sit aspernatur pariatur quos sequi nostrum. Adipisci obcaecati natus delectus 
                 </p>
             </div>
-            <div className=' mt-[20px] flex-1 gap-2 text-justify' >
+            <div className=' mt-[20px] flex-1 gap-2 text-justify .' >
             <h1 className='font-bold text-2xl mb-2'>What We Do</h1>
                 <p className='mb-[20px]'>
                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
